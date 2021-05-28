@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Project Euler #1 java.iml" filepath="$PROJECT_DIR$/Project Euler #1 java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project euler no1.iml" filepath="$PROJECT_DIR$/project euler no1.iml" />
     </modules>
   </component>
 </project>
