@@ -32,7 +32,6 @@ int main()
     }
 
     std::cout << number;
-    std::cin.get();
 
     return 0;
 }
